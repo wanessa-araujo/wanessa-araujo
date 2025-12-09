@@ -3,10 +3,6 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanessa-nunes-araujo/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:araujo-wanessa@outlook.com)
 
-![Wanessa GitHub stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=wanessa-araujo&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=wanessa-araujo&size_weight=0.5&count_weight=0.5)
-
 ### Tecnologias que adquiri conhecimento
 
 <div>
